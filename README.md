@@ -23,4 +23,4 @@ This project is a webpage for a marketing agency which through code refactoring 
 *the title element is concise and descriptive
 
 ## Horiseon Demo
-![Horiseon Demo](horiseon.jpg)
+![Horiseon Demo](https://github.com/sindhu-sp/Challenge1/blob/main/assets/images/horiseon.jpg)
