@@ -15,12 +15,12 @@ This project is a webpage for a marketing agency which through code refactoring 
 ## In this project:
 
 
-*webpage meets accessibility standards
-*there are semantic HTML elements
-*the elements follow a logical structure independent of *styling and positioning
-*there are accessible alt attributes
-*the heading attributes is in sequential order
-*the title element is concise and descriptive
+- webpage meets accessibility standards
+-  there are semantic HTML elements
+- the elements follow a logical structure independent of *styling and positioning
+- there are accessible alt attributes
+- the heading attributes is in sequential order
+- the title element is concise and descriptive
 
 ## Horiseon Demo
 ![Horiseon Demo](https://github.com/sindhu-sp/Challenge1/blob/main/assets/images/horiseon.jpg)
