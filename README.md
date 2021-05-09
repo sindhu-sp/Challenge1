@@ -22,6 +22,5 @@ This project is a webpage for a marketing agency which through code refactoring 
 *the heading attributes is in sequential order
 *the title element is concise and descriptive
 
-<!-- <img src=".assets/images/horizeongiphy.mp4" alt="project demo"/> -->
 ## Horiseon Demo
-![Horiseon Demo](horizeongiphy.mp4)
+![Horiseon Demo](horiseon.jpg)
