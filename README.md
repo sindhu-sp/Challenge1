@@ -1,6 +1,4 @@
-# Challenge1
-
-# 01 HTML CSS Git: Code Refactor
+# Code Refactor for Horiseon
 
 Refactored the code
 
@@ -8,7 +6,7 @@ The code follows the accessibility standards
 
 Cleaned up the CSS
 
-# About this project
+# About this project:
 This project is a webpage for a marketing agency which through code refactoring made more optimized for search engines.
 
 
@@ -23,4 +21,8 @@ This project is a webpage for a marketing agency which through code refactoring 
 - the title element is concise and descriptive
 
 ## Horiseon Demo
-![Horiseon Demo](https://github.com/sindhu-sp/Challenge1/blob/main/assets/images/horiseon.jpg)
+![Horiseon Demo](https://github.com/sindhu-sp/Challenge1/blob/main/assets/images/horiseon.jpg = 250x400)
+
+## Technologies used:
+- HTML
+- CSS
