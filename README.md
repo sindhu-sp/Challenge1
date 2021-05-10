@@ -22,7 +22,7 @@ This project is a webpage for a marketing agency which through code refactoring 
 
 ## Horiseon Demo
 <!-- ![Horiseon Demo](https://github.com/sindhu-sp/Challenge1/blob/main/assets/images/horiseon.jpg ) -->
-<img src="./assets/images/horiseon.jpg " alt="horiseon meeting" width="200"/>
+<img src="./assets/images/horiseon.jpg " alt="horiseon meeting" height = 300 width= 200 />
 
 ## Technologies used:
 - HTML
